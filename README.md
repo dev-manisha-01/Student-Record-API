@@ -30,7 +30,9 @@ Mongoose – ODM for MongoDB
 Nodemon (for development)
 
 📁 Project Structure
+
 STUDENT-RECORD/
+
 │
 ├── server.js              # Entry point of the app
 ├── package.json           # Project dependencies and scripts
@@ -70,12 +72,14 @@ npm run dev
 (Uses nodemon for live reload)
 
 🧪 API Endpoints
+
 Method	Endpoint	Description
 GET	/students	Get all students
 POST	/students	Add a new student
 PUT	/students/:id	Update student by ID
 DELETE	/students/:id	Delete student by ID
 📬 Example Request (POST)
+
 {
   "name": "Aman Kumar",
   "course": "Computer Science",
