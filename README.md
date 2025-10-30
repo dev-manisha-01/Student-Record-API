@@ -1,3 +1,4 @@
+🧑‍🎓 Student Record API
 A simple RESTful API built using Node.js, Express, and MongoDB to manage student records efficiently.
 This project demonstrates CRUD (Create, Read, Update, Delete) operations and can be used as a foundation for learning backend development.
 
