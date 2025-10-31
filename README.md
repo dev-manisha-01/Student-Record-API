@@ -34,14 +34,26 @@ Nodemon (for development)
 STUDENT-RECORD/
 
 │
+
 ├── server.js              # Entry point of the app
+
 ├── package.json           # Project dependencies and scripts
+
 ├── config/
-│   └── db.js              # MongoDB connection
+
+│  
+└── db.js              # MongoDB connection
+
 ├── models/
-│   └── Student.js         # Mongoose schema
+
+│
+└── Student.js         # Mongoose schema
+
 ├── routes/
-│   └── studentRoutes.js   # Express routes
+
+│
+└── studentRoutes.js   # Express routes
+
 └── README.md              # Project documentation
 
 ⚙️ Installation & Setup
