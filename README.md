@@ -60,7 +60,7 @@ STUDENT-RECORD/
 
 Clone the repository
 
-git clone https://github.com/your-username/STUDENT-RECORD.git
+git clone https://github.com/dev-manisha-01/STUDENT-RECORD.git
 cd STUDENT-RECORD
 
 
